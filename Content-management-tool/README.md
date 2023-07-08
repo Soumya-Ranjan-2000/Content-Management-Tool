@@ -7,7 +7,7 @@
 Content Management Tool
 
 ## `Description`
-Content Management Tool is a web-based content management system developed as Task 1 for the **Bharat Intern** internship program. It allows users to manage and publish contents easily. It allows users to add text, images and videos required to create a blog. 
+The Content Management Tool is a web-based content management system developed as Task 1 for the **Bharat Intern** internship program. It allows users to manage and publish content easily. It allows users to add text, images, and videos required to create a blog. 
 
 ## `Tech Stack Used`
 <li>HTML</li>
@@ -15,6 +15,6 @@ Content Management Tool is a web-based content management system developed as Ta
 <li>JavaScript</li>
 
 ## `Installation`
-<li>Clone the repository: git clone https://github.com/riyanachwani/content-management.git </li>
+<li>Clone the repository: git clone https://github.com/Soumya-Ranjan-2000/Content-Management-Tool.git </li>
 <li>Open the project folder in your preferred code editor.</li>
 <li>Open the content-management-tool.html file in a web browser.</li>
